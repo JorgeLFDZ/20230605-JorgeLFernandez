@@ -1,0 +1,3 @@
+Git
+Google Chrome
+Visual Studio

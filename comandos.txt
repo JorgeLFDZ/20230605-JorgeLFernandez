@@ -1,0 +1,37 @@
+  195  git init
+  196  git remote add origin https://github.com/JorgeLFDZ/20230605-JorgeLFernandez
+  197  touch comandos.txt main.js index.html
+  198  git add .
+  199  git commit -m "Commit 01 de JorgeFernandez"
+  200  git push
+  201   git push --set-upstream origin main
+  202  git push
+  203  git branch feature
+  204  git checkout feature
+  205  mkdir Hardware Software SeguridadInformatica
+  206  cd Hardware/
+  207  touch Resumen.txt
+  208  cd ..
+  209  cd Software/
+  210  touch resumen.txt
+  211  cd ..
+  212  cd SeguridadInformatica/
+  213  touch resumen.txt
+  214  cd..
+  215  cd ..
+  216  git add .
+  217  git commit -m "
+  218  git commit -m "commit 02 de JorgeFernandez"
+  219  git push
+  220  git add .
+  221  git commit -m "commit 02 de JorgeFernandez"
+  222  git push
+  223  git push --set-upstream origin feature
+  224  git push --set-upstream origin feature
+  225  git checkout main
+  226  mv main.js resumenHardware.txt
+  227  ls
+  228  mv index.html resumenSoftware.txt
+  229  nano resumenSoftware.txt
+  230  nano resumenHardware.txt
+  231  nano comandos.txt
